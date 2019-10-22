@@ -1,0 +1,10 @@
+{
+  "name": "wx-share",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rabbit",
+  "license": "MIT",
+  "dependencies": {
+    "weixin-js-sdk": "^1.4.0-test"
+  }
+}
