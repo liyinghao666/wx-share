@@ -1,6 +1,7 @@
 {
   "name": "wx-share",
   "version": "1.0.0",
+  "description": "微信分享小工具",
   "main": "index.js",
   "author": "rabbit",
   "license": "MIT",
